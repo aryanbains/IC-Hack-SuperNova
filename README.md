@@ -1,3 +1,11 @@
+Hello there!
+
+There are 2 separate videos, 
+1. Idea explained video.mp4 in which all the members of the team are there to explain the idea.
+2. Prototype explained video.mp4 in which the complete system devloped by us is explained and is shown by running the code along with commentary.
+
+Thank you so much, hope you liked it 
+
 
   # Team Project
 
